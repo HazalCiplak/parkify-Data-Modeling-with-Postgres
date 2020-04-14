@@ -20,7 +20,7 @@ Using the song and log datasets, star schema as shown below is created.
   - Fact Table: _songplays_
   - Dimension Tables:  _users, songs, artists, time_.
 
-![alt text](./songplay_erd.PNG)
+![alt text](./songplay_erd.png)
 
 **Files in repository**
 
